@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "main.h"
 
 /**
  * positive_or_negative - prints if a number is positive, negative or zero
